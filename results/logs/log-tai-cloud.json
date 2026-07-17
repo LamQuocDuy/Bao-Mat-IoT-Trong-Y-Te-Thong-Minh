@@ -1,0 +1,303 @@
+[
+    {
+        "timestamp": "2026-07-16 14:11:18",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:11:27",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:11:36",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:11:45",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:11:55",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:04",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:12",
+        "event_type": "ACCESS_DATA",
+        "status": "SUCCESS",
+        "details": "Truy cập dữ liệu trực tiếp ở chế độ BASIC (Thiết lập ban đầu)",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:13",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:22",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:22",
+        "event_type": "ACCESS_DATA",
+        "status": "SUCCESS",
+        "details": "Truy cập dữ liệu trực tiếp ở chế độ BASIC (Thiết lập ban đầu)",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:31",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:40",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:49",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:12:58",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:13:07",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:13:16",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:15:11",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:15:20",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:15:29",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:15:38",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:15:47",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:15:56",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:15:57",
+        "event_type": "DOCTOR_LOGIN",
+        "status": "FAILED",
+        "details": "Thử đăng nhập sai tài khoản: a",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:06",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:15",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:15",
+        "event_type": "DOCTOR_LOGIN",
+        "status": "SUCCESS",
+        "details": "Bác sĩ dr_smith đăng nhập thành công",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:17",
+        "event_type": "ACCESS_DATA",
+        "status": "SUCCESS",
+        "details": "Bác sĩ dr_smith lấy dữ liệu nhịp tim thành công",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:24",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:33",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:38",
+        "event_type": "DOCTOR_LOGIN",
+        "status": "SUCCESS",
+        "details": "Bác sĩ dr_smith đăng nhập thành công",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:40",
+        "event_type": "ACCESS_DATA",
+        "status": "SUCCESS",
+        "details": "Bác sĩ dr_smith lấy dữ liệu nhịp tim thành công",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:42",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:16:51",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:17:00",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:17:09",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:17:18",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:17:27",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:17:36",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:17:45",
+        "event_type": "RECEIVE_DATA",
+        "status": "FAILED",
+        "details": "Sai khớp chữ ký HMAC bảo mật dữ liệu nhạy cảm",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:17:54",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:18:03",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:18:12",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    },
+    {
+        "timestamp": "2026-07-16 14:18:21",
+        "event_type": "RECEIVE_DATA",
+        "status": "SUCCESS",
+        "details": "Lưu thành công nhịp tim bệnh nhân PATIENT-9981",
+        "requester_ip": "127.0.0.1"
+    }
+]
